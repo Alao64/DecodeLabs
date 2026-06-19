@@ -11,7 +11,10 @@ The target variable is **`is_fraud`**: whether a transaction is fraudulent (bina
 
 ## Dataset
 
-**Source:** `transactions.csv`  
+**Source:**
+Dataset Source: E-Commerce Fraud Detection Dataset — Kaggle
+
+The dataset is not included in this repository due to size. To run this notebook, download transactions.csv from https://www.kaggle.com/datasets/umuttuygurr/e-commerce-fraud-detection-dataset and place it in the week-2/ folder before running.
 A financial transactions dataset containing user behaviour, transaction metadata, and card verification signals used to identify fraudulent activity.
 
 **Key features include:**
