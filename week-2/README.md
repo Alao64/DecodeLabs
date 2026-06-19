@@ -1,10 +1,9 @@
 # 💳 Fraud Detection — Week 2: Modelling & Evaluation
 
-> **Decode Labs** | Week 2 Project
 
 ## Overview
 
-This notebook builds a **fraud detection system** on a financial transactions dataset. It covers the full machine learning pipeline — from data cleaning and feature engineering through to model comparison, SMOTE-based class balancing, hyperparameter tuning, and feature importance analysis.
+This notebook builds a **fraud detection system** on a financial transactions dataset. It covers the full machine learning pipeline, from data cleaning and feature engineering through to model comparison, SMOTE-based class balancing, hyperparameter tuning, and feature importance analysis.
 
 The target variable is **`is_fraud`**: whether a transaction is fraudulent (binary: 0 = Legitimate, 1 = Fraud).
 
