@@ -1,6 +1,5 @@
-# 🛒 Online Retail Customer Segmentation — Week 3: Business Intelligence & RFM Analysis
-
-> **Decode Labs** | Week 3 Project
+# 🛒 Online Retail Customer Segmentation 
+# Week 3 Project
 
 ## Overview
 
