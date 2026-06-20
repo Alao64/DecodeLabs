@@ -11,8 +11,8 @@ This work bridges the gap between raw data and business strategy — turning tra
 
 ## Dataset
 
-**Source:** `online_retail.csv`  
-A transactional dataset from a UK-based online retailer, covering purchases between December 2010 and December 2011.
+**Source:**   
+A transactional dataset from a UK-based online retailer, covering purchases between December 2010 and December 2011.To run this notebook, download online_reail.xls from https://archive.ics.uci.edu/dataset/502/online+retail+ii, convert it to a csv file and place it in the week-3/ folder before running
 
 **Key features include:**
 
